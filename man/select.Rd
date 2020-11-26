@@ -9,7 +9,7 @@ select(df, col)
 \arguments{
 \item{df}{A data frame.}
 
-\item{x}{Either a character vector with the names of columnns to keep
+\item{col}{Either a character vector with the names of columnns to keep
 or an integer vector with the positions of the columns to keep}
 }
 \value{

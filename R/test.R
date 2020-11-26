@@ -25,7 +25,7 @@ test <- function(x) {
 
 #' Title
 #'
-#' @param x 
+#' @param x A vector.
 #'
 #' @return
 #' @export

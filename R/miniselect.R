@@ -1,6 +1,3 @@
-
-
-
 #' Subset columns
 #'
 #' @param df This is a dataframe.
@@ -16,7 +13,5 @@ miniselect <- function(df, col) {
   df %>%
   select(col)
 }
-
-
 
 

@@ -8,6 +8,14 @@
 \description{
 This is a minidplyr package.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/boztdk/minidplyr}
+  \item Report bugs at \url{https://github.com/boztdk/minidplyr/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: First Last \email{first.last@example.com} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
 

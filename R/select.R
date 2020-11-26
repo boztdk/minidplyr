@@ -1,7 +1,7 @@
 #' Subset columns
 #'
 #' @param df A data frame.
-#' @param x Either a character vector with the names of columnns to keep
+#' @param col Either a character vector with the names of columnns to keep
 #'     or an integer vector with the positions of the columns to keep
 #'
 #' @return A data frame with the columns kept.
